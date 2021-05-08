@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ad540f-ed81-4c61-be8d-7274dc002ab0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataset/transMinist2TwoCategories.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/transMinist2TwoCategories.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dataset/transMinist2TwoCategories.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+            <state relative-caret-position="26">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="e#175#184#0" expanded="true" />
               </folding>
@@ -73,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,20 +85,15 @@
               <item name="MachineLearning_ex" type="462c0819:PsiDirectoryNode" />
               <item name="Dataset" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MachineLearning_ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning_ex" type="462c0819:PsiDirectoryNode" />
-              <item name="Dataset" type="462c0819:PsiDirectoryNode" />
-              <item name="mnist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/zhouyucode-pc/MachineLearning_ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -182,11 +176,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dataset/mnist/mnist_test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1512" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dataset/mnist/mnist_test.csv" />
     <entry file="file://$PROJECT_DIR$/Dataset/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -196,8 +186,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dataset/transMinist2TwoCategories.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        <state relative-caret-position="26">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="e#175#184#0" expanded="true" />
           </folding>
